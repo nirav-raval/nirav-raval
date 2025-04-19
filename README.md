@@ -1,20 +1,6 @@
-<div align="center">
-  <img height="150" src="https://github.com/nirav-raval/nirav-raval/blob/master/assets/HomeCodingSticker.gif"  />
-</div>
- 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nrvrvl/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://niravraval.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="37" height="25" alt="dribbble logo"  />
-  </a>
-  <a href="https://x.com/nrvrvl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  </a>
-</div>
+## Hi there 👋🏻
 <br/>
-<p align="center">
+<p align="left">
   <a href="#">
      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirav-raval&label=Profile%20Views&labelColor=%23263759&countColor=%2337d67a" />
    </a>
