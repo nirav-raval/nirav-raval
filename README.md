@@ -43,12 +43,9 @@
 
 <h3 align="left">🔥 GitHub Stats:</h3>
 
-###
-
-<br clear="both">
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirav-raval&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nirav-raval&show_icons=true&theme=react&hide_border=true&hide_title=true" height="170" alt="stats graph"  />
 </div>
 
 ###
