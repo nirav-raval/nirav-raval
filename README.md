@@ -2,7 +2,7 @@
 <br/>
 <p align="left">
   <a href="#">
-     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirav-raval&label=Profile%20Views&labelColor=%23263759&countColor=%2337d67a" />
+     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirav-raval&label=Profile%20Views&labelColor=%23263759&countColor=%2356bcd9" />
    </a>
 </p>
 
